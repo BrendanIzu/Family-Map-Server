@@ -5,10 +5,11 @@ Back end portion of Family Map Project. This project was build in Intellij versi
 # How to Run
 1. Clone github repository (I find the most convenient way to be using the "Get VCS" option in Intellij and copying HTTPS link from Github
 2. If Intellij prompts you to use existing Maven project then do so
-3. Create new module using 'Shared' folder
+3. Create new module using 'Shared' folder. In Intellij, File -> Project Structure -> Modules. You may see an existing module called 'Shared,' delete this one and create a new one by selecting the '+' in the upper left and importing a module from the 'Shared' folder. 
 4. Create dependancy in main project folder to Shared module
-5. Specify program arguments to be '8080' (or whatever is the desired port)
-6. visit localhost:8080 to test out database calls and server functionality 
+5. At this point if you would like, you can replace the folder called 'Shared' in the project folder with the dependency that you just created which should be located outside of the main project folder
+6. Specify program arguments to be '8080' (or whatever is the desired port)
+7. Visit localhost:8080 to test out database calls and server functionality or check out my Family-Map-Client repo to connect to this project
 
 # About the Project
 
