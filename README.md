@@ -3,7 +3,7 @@
 Back end portion of Family Map Project. This project was build in Intellij version 2021.2.1, using JDK 16.0.2
 
 # How to Run
-1. Clone github repository
+1. Clone github repository (I find the most convenient way to be using the "Get VCS" option in Intellij and copying HTTPS link from Github
 2. Create new module using 'Shared' folder
 3. Create dependancy in main project folder to Shared module
 4. Specify program arguments to be '8080' (or whatever is the desired port)
