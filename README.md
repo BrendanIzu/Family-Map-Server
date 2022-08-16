@@ -1,6 +1,15 @@
 # Family-Map-Server
 
-Back end portion of Family Map Project. 
+Back end portion of Family Map Project. This project was build in Intellij version 2021.2.1
+
+# How to Run
+1. Clone github repository
+2. Create new module using 'Shared' folder
+3. Create dependancy in main project folder to Shared module
+4. Specify program arguments to be '8080' (or whatever is the desired port)
+5. visit localhost:8080 to test out database calls and server functionality 
+
+# About the Project
 
 ## Generator Classes
 1. Generator - Generates new random IDs
