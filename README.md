@@ -1,6 +1,6 @@
 # Family-Map-Server
 
-Back end portion of Family Map Project. This project was build in Intellij version 2021.2.1, using JDK 16.0.2
+Back end portion of Family Map Project. This project was built in Intellij version 2021.2.1, using JDK 16.0.2
 
 # How to Run
 1. Clone github repository (I find the most convenient way to be using the "Get VCS" option in Intellij and copying HTTPS link from Github
